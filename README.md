@@ -4,7 +4,7 @@
 DNA Mutation Analysis: This project used Python to analyse next-generation sequencing data from six fission yeast samples. It identified DNA mutations and compared mismatch patterns between treated and untreated samples.
 
 ## How to Run the Program
-The program was written in a Google Colab notebook. First open the Project1_Sequence_Analysis.ipynb in Google Colab, ensure the input files are available, and then run the cells in order.
+The program was written in a Google Colab notebook. First open the Copy_of_C7147_Project_1_assessment.ipynb in Google Colab, ensure the input files are available, and then run the cells in order.
 
 ## Inputs and Outputs
 The program used a reference DNA sequence (reference.txt) and a CSV file containing sequencing reads (reads.csv). Each read includes a read ID, sample, group and DNA sequence.
